@@ -1,0 +1,19 @@
+{
+  "name": "react-multi-entry",
+  "version": "0.1.0",
+  "author": {
+    "name": "Yi Siqi",
+    "email": "yisiqi@163.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.0.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17",
+    "ts-jest": "^22.0.0",
+    "ts-node": "^4.0.2",
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.2"
+  }
+}
